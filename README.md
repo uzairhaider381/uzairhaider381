@@ -1,25 +1,22 @@
 <div align="center">
 
-<!-- Dynamic Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Uzair%20Haider&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20AI%20Enthusiast%20%7C%20Vibe%20Coder&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Uzair%20Haider&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%40%20NUML%20%7C%20AI%20Enthusiast%20%7C%20Vibe%20Coder&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%" />
 
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+with+AI+%26+Automation+%F0%9F%A4%96;C+%7C+C%2B%2B+%7C+Java+OOP+Developer+%F0%9F%92%BB;Exploring+Machine+Learning+%F0%9F%A7%A0;CS+Student+%40+NUML+%F0%9F%8E%93;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+with+AI+%26+Automation+%F0%9F%A4%96;C+%7C+C%2B%2B+%7C+Java+OOP+Developer+%F0%9F%92%BB;Exploring+Machine+Learning+%F0%9F%A7%A0;CS+Student+%40+NUML+%F0%9F%8E%93;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Profile Views & Social Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=uzairhaider381&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="profile views" />
-  <a href="https://linkedin.com/in/uzairhaider381">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:uhsukhera@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=uzairhaider381&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="profile views" />
+&nbsp;
+<a href="https://linkedin.com/in/uzairhaider381">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:uhsukhera@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email%20Me-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -77,8 +74,10 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=uzairhaider381&show_icons=true&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&bg_color=0d1117&hide_border=false&rank_icon=github" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=uzairhaider381&theme=tokyonight&border=7c3aed&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&background=0d1117" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=uzairhaider381&show_icons=true&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&bg_color=0d1117&rank_icon=github" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=uzairhaider381&theme=tokyonight&border=7c3aed&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&background=0d1117" width="49%" />
+
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairhaider381&layout=compact&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&text_color=ffffff&bg_color=0d1117&langs_count=8" width="49%" />
 
@@ -110,18 +109,14 @@ me.say_hi()
 
 ## 💼 Experience
 
-<div align="center">
-
 ```
-🛒  Amazon             →  Virtual Assistant           (Aug 2023 – Oct 2024)
-📞  Skyler Link        →  Customer Service Rep         (Sep 2025 – Nov 2025)
+🛒  Amazon       →  Virtual Assistant          (Aug 2023 – Oct 2024)
+📞  Skyler Link  →  Customer Service Rep        (Sep 2025 – Nov 2025)
 ```
-
-</div>
 
 ---
 
-## 🌐 Activity Graph
+## 🌐 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=uzairhaider381&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" />
@@ -129,23 +124,9 @@ me.say_hi()
 
 ---
 
-## 💡 Quote I Live By
-
 <div align="center">
 
-> *"The best way to predict the future is to build it."*
-> — **Alan Kay**
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Snake animation — enable via GitHub Actions (see below) -->
-<img src="https://raw.githubusercontent.com/uzairhaider381/uzairhaider381/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-<br/>
+> *"The best way to predict the future is to build it."* — **Alan Kay**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
 
