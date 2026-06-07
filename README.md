@@ -65,50 +65,6 @@ I'm early in my journey — but I'm moving fast and building as I go.
 
 ---
 
-## 🧠 The Code Version of Me
-
-```python
-# uzair.py — last updated: 2026
-
-class UzairHaider:
-
-    def __init__(self):
-        self.name       = "Uzair Haider"
-        self.age        = "19-ish 😅"
-        self.based_in   = "Lahore, Pakistan 🇵🇰"
-        self.studying   = "BS Computer Science @ NUML (2025–2029)"
-        self.prev_life  = ["Amazon VA (1yr+)", "Customer Rep @ Skyler Link"]
-
-        self.loves      = ["AI", "automation", "building things from scratch"]
-        self.learning   = ["Machine Learning", "Python", "data-driven systems"]
-        self.certified  = [
-            "Intro to ML Concepts — Google",
-            "Intro to AI Concepts — Google",
-            "Google AI for K-12 Educators"
-        ]
-
-        self.motto      = "Don't just consume technology. Build it."
-        self.fun_fact   = "I wrote my first program and immediately wanted to rewrite it 😂"
-
-    def currently_working_on(self):
-        return "Projects that make AI actually useful for real people"
-
-    def open_to(self):
-        return ["collaborations", "internships", "cool side projects", "learning from you"]
-
-    def reach_me(self):
-        return {
-            "email"   : "uhsukhera@gmail.com",
-            "linkedin": "linkedin.com/in/uzairhaider381",
-            "github"  : "github.com/uzairhaider381"
-        }
-
-me = UzairHaider()
-print(me.motto)
-# → "Don't just consume technology. Build it."
-```
-
----
 
 ## 📈 GitHub Stats
 
